@@ -1,3 +1,4 @@
 ash
 *.o
 *.out
+*.save
